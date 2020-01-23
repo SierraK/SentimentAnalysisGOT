@@ -6,3 +6,7 @@ This project compared the difference between the 8 seasons of Game of Thrones. I
 ## Results
 
 ![Graph 1](imgs/game_of_thrones_s1_pie.png)
+
+![Graph 2](imgs/game_of_thrones_s8_pie.png)
+
+![Graph 3](imgs/game_of_thrones_chart.png)
